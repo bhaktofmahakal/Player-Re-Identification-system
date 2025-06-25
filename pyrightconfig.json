@@ -1,0 +1,14 @@
+{
+    "venvPath": "u:/player-reid-assignment",
+    "venv": "venv",
+    "pythonVersion": "3.11",
+    "extraPaths": [
+        "u:/player-reid-assignment/venv/Lib/site-packages"
+    ],
+    "typeCheckingMode": "basic",
+    "reportMissingImports": "warning",
+    "reportGeneralTypeIssues": "warning",
+    "reportAttributeAccessIssue": "warning",
+    "reportOptionalSubscript": "warning",
+    "reportUnboundVariable": "warning"
+}
